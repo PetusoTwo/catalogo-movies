@@ -24,5 +24,5 @@ El **Catálogo de Películas** es una aplicación de escritorio desarrollada en 
 1. **Clonar el Repositorio:**
 
    ```bash
-   git clone https://github.com/tu_usuario/catalogo_peliculas.git
+   git clone https://github.com/PetusoTwo/catalogo-movies.git
 
